@@ -25,26 +25,10 @@ USA&lt;/p&gt;
  &lt;/span&gt;
  
 &lt;/h2&gt;
-&lt;p&gt;Email: 
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;span class="obfuscated-email"
- data-email-b64="aW5mb0BwYXJhZ3VheTRsaWZlLmNvbQ=="&gt;info [at] paraguay4life [dot] com&lt;/span&gt;&lt;br&gt;
+&lt;p&gt;Email: &lt;a 
+ class="email-link"
+ href="#"
+ data-email="aW5mb0BwYXJhZ3VheTRsaWZlLmNvbQ=="
+ &gt;info [at] paraguay4life [dot] com&lt;/a&gt;&lt;br&gt;
 Note: Please contact us preferably by email. We aim to respond as promptly as possible.&lt;br&gt;
 Website: &lt;a href="https://www.paraguay4life.com" target="_blank" rel="noreferrer"&gt;https://www.paraguay4life.com&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
